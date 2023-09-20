@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on Allied Telesis as Software Enginner
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Minfenglin?theme=dark&font=Iceberg)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Minfenglin?theme=dark&font=Iceberg&ext=heatmap)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minfenglin&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minfenglin&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minfenglin&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Minfenglin&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Minfenglin&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minfenglin&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minfenglin&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minfenglin&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Minfenglin&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Minfenglin&theme=github_dark)
 
 <!--
 **MinFengLin/MinFengLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
