@@ -2,8 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/Minfenglin?label=Follow&style=social)](https://github.com/Minfenglin)
 
-- 🔭 I’m currently working on Allied Telesis as Software Enginner
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Minfenglin?theme=dark&font=Iceberg&ext=heatmap)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minfenglin&theme=github_dark)
